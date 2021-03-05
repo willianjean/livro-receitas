@@ -4,3 +4,4 @@ Olá! Bem vindo ao meu livro de receitas :wave:
  - Nova alteração
  - Mais uma modificação
  - Mais uma
+ - Editagem com fins didaticos
